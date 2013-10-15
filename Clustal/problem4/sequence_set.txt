@@ -1,0 +1,8 @@
+>s1
+AAAC
+>s2
+AGC
+>s3
+ACC
+>s4
+GAC
